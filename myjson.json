@@ -1,0 +1,16 @@
+{
+    "messenger": {
+        "broker_address": "localhost", 
+        "port": 1883, 
+        "topic": "#"
+    },
+
+    "mysql": {
+        "user": "testuser",
+        "password": "pass",
+        "host": "10.4.5.16",
+        "database": "test_schema",
+        "raise_on_warnings": false
+    }
+
+}
